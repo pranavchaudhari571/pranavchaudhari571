@@ -1,4 +1,4 @@
-## Hi there, I'm [Pranav Chaudhari]! 👋
+## Hi there, I'm Pranav Chaudhari! 👋
 
 I'm a passionate full-stack developer specializing in React for the frontend and Spring Boot for the backend. Welcome to my GitHub profile!
 
@@ -24,6 +24,6 @@ I'm a passionate full-stack developer specializing in React for the frontend and
 - [LinkedIn](https://www.linkedin.com/in/pranav-chaudhari-690ba2190/)
 - [Email](mailto:pranav.chaudhari571@gmail.com)
 
-![GitHub Stats](https://github.com/pranavchaudhari571)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavchaudhari571&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavchaudhari571&layout=compact)](https://github.com/pranavchaudhari571)
