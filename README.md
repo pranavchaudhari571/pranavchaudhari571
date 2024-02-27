@@ -21,8 +21,8 @@ I'm a passionate full-stack developer specializing in React for the frontend and
 
 ### Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/pranav-chaudhari-690ba2190/)
-- [Email](mailto:pranav.chaudhari571@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-chaudhari-690ba2190/)
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pranav.chaudhari571@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavchaudhari571&show_icons=true)
 
