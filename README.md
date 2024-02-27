@@ -18,6 +18,7 @@ I'm a passionate full-stack developer specializing in React for the frontend and
 - Backend: Spring Boot, Java
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code, IntelliJ IDEA, STS
+- Cloud Platforms: AWS
 
 ### Connect With Me
 
